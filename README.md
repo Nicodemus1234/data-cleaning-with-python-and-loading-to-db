@@ -1,4 +1,4 @@
-##Data Cleaning and Loading to PostgreSQL (Aiven)
+## Data Cleaning and Loading to PostgreSQL (Aiven)
 This project demonstrates the process of cleaning raw data using Python and loading the cleaned data into a PostgreSQL database hosted on Aiven. It serves as a foundational pipeline for data preprocessing and storage, suitable for analytics, reporting, or further data processing tasks.
 
 ## Project Overview
