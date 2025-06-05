@@ -1,5 +1,5 @@
 ## Data Cleaning and Loading to PostgreSQL 
---
+---
 Welcome to this project! Here, we walk through the process of transforming raw data into a clean, structured format using Python, and then loading it into a PostgreSQL database hosted on Aiven. Whether you're new to data preprocessing or looking to streamline your workflow, this guide provides a clear and practical approach.
 
 ### Project Overview
