@@ -14,7 +14,8 @@ Clean column names and remove irrelevant features
 
 Load the cleaned data into a PostgreSQL database
 
-###Technologies Used
+## Technologies Used
+--
 Python 3.6+: Programming language for data processing
 
 Pandas: Data manipulation and analysis library
