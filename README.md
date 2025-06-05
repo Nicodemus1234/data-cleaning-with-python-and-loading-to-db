@@ -3,8 +3,7 @@
 Welcome to this project! Here, we walk through the process of transforming raw data into a clean, structured format using Python, and then loading it into a PostgreSQL database hosted on Aiven. Whether you're new to data preprocessing or looking to streamline your workflow, this guide provides a clear and practical approach.
 
 ### Project Overview
---
-
+---
 Data cleaning is a vital step in any data analysis or machine learning project. Raw datasets often contain inconsistencies, missing values, duplicates, and other issues that can lead to inaccurate insights. In this project, we utilize Python's powerful libraries to:
 
 Load and inspect raw datasets: Understand the structure and quality of your data.
